@@ -1,0 +1,104 @@
+.sprite-display{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 80%, 0.1);
+    margin-top: 10px;
+}
+
+
+.types-display{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 80%, 0.1);
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+#ice{
+    background-color: aqua;
+}
+
+
+#fairy{
+    background-color: pink;
+}
+
+
+#ghost{
+    background-color: darkgray;
+}
+
+
+#dragon{
+    background-color: darkred;
+    color: white;
+}
+
+
+#electric{
+    background-color: yellow;
+}
+
+#steel{
+    background-color: silver;
+}
+
+#rock{
+    background-color: darkkhaki;
+}
+
+#poison, #psychic{
+    background-color: purple;
+    color: white;
+}
+
+
+
+#fire{
+    background-color: red;
+    color: white;
+}
+
+#grass{
+    background-color: rgb(3, 179, 3);
+    color: white;
+}
+
+#bug{
+    background-color: rgb(128, 115, 0);
+    color: white;
+}
+
+#normal{
+    background-color: navajowhite;
+}
+
+#water{
+    background-color: rgb(33, 33, 255);
+    color: white;
+}
+
+#flying{
+    background-color: rgb(223, 223, 255);
+}
+
+
+#ground{
+    background-color: rgb(138, 68, 22);
+    color: white;
+}
+
+
+#dark{
+    background-color: rgb(70, 62, 62);
+    color: white;
+}

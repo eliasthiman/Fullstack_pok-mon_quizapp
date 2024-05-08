@@ -1,0 +1,31 @@
+.answers-list{
+    margin-top: 20px;
+    margin-left: -40px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.answers-list li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 16px;
+    background: rgb(228, 65, 65);
+    border: 1px solid black;
+    border-radius: 16px;
+    padding: 10px;
+    margin-top: 15px;
+    cursor: pointer;
+    text-align: center;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.answers-list li:hover{
+    background: #ca0a0a;
+}
+
