@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 # Pokemon Quiz Game
 
-This is a fullstack Pokemon-Quiz web application built with React & Vite, node with express and mySQL for the server.
+This is a fullstack Pokemon-Quiz web application built with React & Vite, node with express for the backend and mySQL for the server.
 
 ## Prerequisites
 
