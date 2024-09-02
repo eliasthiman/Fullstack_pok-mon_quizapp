@@ -47,3 +47,9 @@ To minify and build the application with Vite, run the following command in your
 npm run build
 ```
 In order to use the application navigate to localhost:3000 in your webbrowser while the backend is running.
+
+## Playing the game
+
+1. After setting everything up, create an account in the game and log in. 
+2. Start a new game and enjoy! 
+3. Use the code you get in the end of the game to challange your friends! 
