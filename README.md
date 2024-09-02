@@ -52,4 +52,4 @@ In order to use the application navigate to localhost:3000 in your webbrowser wh
 
 1. After setting everything up, create an account in the game and log in. 
 2. Start a new game and enjoy! 
-3. Use the code you get in the end of the game to challange your friends! 
+3. Use the code you get at the end of the game to challange your friends! 
