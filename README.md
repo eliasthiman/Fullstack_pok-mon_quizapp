@@ -18,6 +18,7 @@ To install Pokemon Quiz Game, follow these steps:
 3. Install the dependencies globally: `npm install`
 4. Navigate into backend directory: `cd QuizApp/server`
 5. Install the dependencies: `npm install`
+6. You also need to setup an SQL-server, the `quizapp.sql` file is the template.
 
 
 ## Starting the backend 
